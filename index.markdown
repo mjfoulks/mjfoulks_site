@@ -5,4 +5,5 @@
 layout: splash
 header:
   image: assets/images/typewriter.jpg
+
 ---

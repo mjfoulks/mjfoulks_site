@@ -3,7 +3,6 @@ layout: collection
 permalink: "/works/"
 title: "Works"
 classes: wide
-
 gallery:
   - url: /works/loa_toter/
     image_path: /assets/images/loa-toter-teaser.jpg
