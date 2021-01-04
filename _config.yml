@@ -36,6 +36,7 @@ include:
   - _data
   - _pages
   - _news
+  - _works
 
 collections:
   news:
