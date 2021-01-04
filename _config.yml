@@ -35,6 +35,8 @@ minimal_mistakes_skin: dark
 include:
   - _data
   - _pages
+  - _news
+
 collections:
   news:
     output: true

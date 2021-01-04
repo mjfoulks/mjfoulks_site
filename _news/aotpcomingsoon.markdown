@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Coming Soon: Ashes of the Past
-permalink: /news/comingsoon-aotp/
+permalink: /news/aotpcomingsoon/
 date: 2021/1/4
 
 ---
