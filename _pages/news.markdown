@@ -7,5 +7,6 @@ classes: wide
 ---
 {% assign sorted = site.news | sort: 'date' | reverse %}
 {% for item in sorted %}
-<h2><a href="{{ item.url }}">{{ item.title }}</a></h2>
+<h3><a href="{{ item.url }}">{{ item.title }}</a></h3>
+<i>"{{ item.date }}"</i>
 {% endfor %}
