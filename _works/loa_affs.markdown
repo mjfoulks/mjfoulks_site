@@ -1,8 +1,7 @@
 ---
 layout: splash
 title: A Frightful First Step
-header:
-  teaser: /assets/images/loa-affs-teaser.jpg
+teaser: /assets/images/loa-affs-teaser.jpg
 
 ---
 

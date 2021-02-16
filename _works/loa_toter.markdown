@@ -1,8 +1,8 @@
 ---
 layout: splash
 title: Tales from the Elvish realms
-header:
-  teaser: /assets/images/loa-toter-teaser.jpg
+teaser: /assets/images/loa-toter-teaser.jpg
+
 ---
 [![image-left](/assets/images/loa-toter.jpg){: .align-left}](https://www.amazon.com/Legends-Akelian-Tales-Elvish-Realms/dp/149176001X)
 
