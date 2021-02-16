@@ -2,7 +2,7 @@
 layout: single
 title: Putting it out there
 permalink: /news/anewhome/
-date: 2021/1/4
+date: 2021-2-16
 
 ---
 

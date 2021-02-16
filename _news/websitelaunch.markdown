@@ -2,7 +2,7 @@
 layout: single
 title: Website Launch
 permalink: /news/website/
-date: 2020/10/07
+date: 2020-10-07
 
 ---
 

@@ -2,7 +2,7 @@
 layout: single
 title: A Frightful First Step, Coming Soon
 permalink: /news/affscomingsoon/
-date: 2021/1/4
+date: 2021-1-4
 
 ---
 
