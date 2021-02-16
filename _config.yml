@@ -42,7 +42,10 @@ collections:
   news:
     output: true
     permalink: /:collection/:path/
-    sort_by: date
+    order:
+      - newhome.markdown
+      - affscomingsoon.markdown
+      - websitelaunch.markdown
   works:
     output: true
     permalink: /:collection/:path/
