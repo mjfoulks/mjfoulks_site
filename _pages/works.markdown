@@ -17,6 +17,6 @@ classes: wide
 ## The Legends of Akelian Series:
 {% for work in site.works %}
   <h2>
-    <a href="{{ work.url }}">{{ work.header.teaser?width=250 alt=work.title }}</a>
+    <a href="{{ work.url }}"><img src={{ work.header.teaser }} width=250 alt=work.title></a>
   </h2>
 {% endfor %}
