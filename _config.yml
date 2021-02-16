@@ -42,10 +42,6 @@ collections:
   news:
     output: true
     permalink: /:collection/:path/
-    order:
-      - newhome.markdown
-      - affscomingsoon.markdown
-      - websitelaunch.markdown
   works:
     output: true
     permalink: /:collection/:path/
