@@ -8,6 +8,10 @@ gallery:
     image_path: /assets/images/loa-toter-teaser.jpg
     alt: loa-toter-teaser
     title: Tales from the Elvish Realms
+  - url: /works/loa_affs/
+    image_path: /assets/images/loa-affs-teaser.jpg
+    title: A Frightful First Step
+    url: /works/loa_affs
 ---
 
 ## The Legends of Akelian Series:
