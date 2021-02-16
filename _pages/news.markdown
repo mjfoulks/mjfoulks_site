@@ -2,11 +2,10 @@
 layout: collection
 permalink: "/news/"
 title: "News"
-collection: news
 entries_layout: list
 classes: wide
-order:
-  - newhome.markdown
-  - affscomingsoon.markdown
-  - websitelaunch.markdown
 ---
+{% assign sorted = site.news | sort: 'date' | reverse %}
+{% for item in sorted %}
+<li>{{ item.title }}</li>
+{% endfor %}
