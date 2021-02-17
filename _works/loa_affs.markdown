@@ -2,6 +2,7 @@
 layout: splash
 title: A Frightful First Step
 teaser: /assets/images/loa-affs-teaser.jpg
+date: 2021-02-16
 
 ---
 

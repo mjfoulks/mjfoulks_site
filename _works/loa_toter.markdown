@@ -2,6 +2,7 @@
 layout: splash
 title: Tales from the Elvish realms
 teaser: /assets/images/loa-toter-teaser.jpg
+date: 2021-01-04
 
 ---
 [![image-left](/assets/images/loa-toter.jpg){: .align-left}](https://www.amazon.com/Legends-Akelian-Tales-Elvish-Realms/dp/149176001X)
