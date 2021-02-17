@@ -20,5 +20,5 @@ show_excerpts: false
 <div class="row">
 {% for work in site.works %}
   <a href="{{ work.url }}"><img src="{{ work.teaser }}" width=200 alt="{{ work.title }}"></a>
+{% endfor %}
 </div>
-{% endfor %}}
