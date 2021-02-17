@@ -19,8 +19,6 @@ show_excerpts: false
 ## The Legends of Akelian Series:
 <div class="row">
 {% for work in site.works %}
-  <h2>
-      <a href="{{ work.url }}"><img src="{{ work.teaser }}" width=250 alt="{{ work.title }}"></a>
-  </h2>
+  <a href="{{ work.url }}"><img src="{{ work.teaser }}" width=200 alt="{{ work.title }}"></a>
 </div>
 {% endfor %}}
