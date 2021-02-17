@@ -18,7 +18,7 @@ show_excerpts: false
 
 ## The Legends of Akelian Series:
 <div class="row">
-{% assign sorted = site.works | sort: 'date' | reverse %} 
+{% assign sorted = site.works | sort: 'date' %} 
 {% for work in sorted %}
   <a href="{{ work.url }}"><img src="{{ work.teaser }}" width=200 alt="{{ work.title }}"></a>
 {% endfor %}
