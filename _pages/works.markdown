@@ -3,7 +3,7 @@ layout: collection
 permalink: "/works/"
 title: "Works"
 classes: wide
-entries_layout: grid
+entries_layout: list
 show_excerpts: false
 gallery:
   - url: /works/loa_toter/
