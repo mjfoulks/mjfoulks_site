@@ -18,8 +18,8 @@ show_excerpts: false
 
 ## Legends Of Akelian
 
-[![image-left](/assets/images/loa-toter-teaser.jpg){: .align-left}](https://www.mjfoulks.com/works/loa_toter)<br>
-[![image-left](/assets/images/loa-affs-teaser.jpg){: .align-left}](https://www.mjfoulks.com/works/loa_affs)<br>
+[/assets/images/loa-toter-teaser.jpg](https://www.mjfoulks.com/works/loa_toter)
+[/assets/images/loa-affs-teaser.jpg){: .align-left}](https://www.mjfoulks.com/works/loa_affs)
 
 ## Other Works
 
