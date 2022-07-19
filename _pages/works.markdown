@@ -15,9 +15,10 @@ show_excerpts: false
 #    title: A Frightful First Step
 #    url: /works/loa_affs
 ---
-<div class="row">
-{% assign sorted = site.works | sort: 'date' %} 
-{% for work in sorted %}
-  <a href="{{ work.url }}"><img src="{{ work.teaser }}" width=200 alt="{{ work.title }}"></a>
-{% endfor %}
-</div>
+#
+#<!-- <div class="row">
+#{% assign sorted = site.works | sort: 'date' %} 
+#{% for work in sorted %}
+# <!--  <a href="{{ work.url }}"><img src="{{ work.teaser }}" width=200 alt="{{ work.title }}"></a>
+#{% endfor %}
+#<!-- </div> 
