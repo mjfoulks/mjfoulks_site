@@ -18,9 +18,9 @@ show_excerpts: false
 
 ## Legends Of Akelian
 
-[/assets/images/loa-toter-teaser.jpg](https://www.mjfoulks.com/works/loa_toter)
-[/assets/images/loa-affs-teaser.jpg](https://www.mjfoulks.com/works/loa_affs)
+[![image](/assets/images/loa-toter-teaser.jpg)](https://www.mjfoulks.com/works/loa_toter)
+[![image](/assets/images/loa-affs-teaser.jpg)](https://www.mjfoulks.com/works/loa_affs)
 
 ## Other Works
 
-[![image-left](/assets/images/innocent-cover-sm.png){: .align-left}](https://www.mjfoulks.com/works/less_than_innocent)
+[![image](/assets/images/innocent-cover-sm.png)](https://www.mjfoulks.com/works/less_than_innocent)
