@@ -15,8 +15,6 @@ show_excerpts: false
 #    title: A Frightful First Step
 #    url: /works/loa_affs
 ---
-
-## The Legends of Akelian Series:
 <div class="row">
 {% assign sorted = site.works | sort: 'date' %} 
 {% for work in sorted %}

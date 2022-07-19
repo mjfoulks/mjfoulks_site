@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: Tales from the Elvish realms
+title: Legends of Akelian: Tales from the Elvish realms
 teaser: /assets/images/loa-toter-teaser.jpg
 date: 2021-01-04
 
