@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: Legends Of Akelian: A Frightful First Step
-teaser: /assets/images/loa-affs-teaser.jpg
+teaser: /assets/images/coming_soon.png
 date: 2021-02-16
 
 ---
