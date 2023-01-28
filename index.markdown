@@ -4,6 +4,6 @@
 
 layout: splash
 header:
-  image: assets/images/typewriter.jpg
+  image: assets/images/clingmans_dome.jpg
 
 ---
